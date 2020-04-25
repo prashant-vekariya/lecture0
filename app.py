@@ -1,5 +1,5 @@
 import random
 
-dice = random.randint(1, 3)
+dice = random.randint(1, 2)
 
 print(dice)
